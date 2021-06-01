@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>593203141903-hjccm9uc9l0ov2uifbc0q6sq2urorfrt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.593203141903-hjccm9uc9l0ov2uifbc0q6sq2urorfrt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAYWaGWJW4gM1JWWiaJPiYDzGdSlxO0rS4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>593203141903</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.syun-syun01.KachiKachiExtra</string>
+	<key>PROJECT_ID</key>
+	<string>kachikachiextra</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kachikachiextra.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:593203141903:ios:36711125ebc7c9aadfb27a</string>
+	<key>DATABASE_URL</key>
+	<string>https://kachikachiextra.firebaseio.com</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-1923099754481403~9564948618</string>
+</dict>
+</plist>
